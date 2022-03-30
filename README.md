@@ -1,4 +1,4 @@
-### Olá, eu o Deivison Santos 👋
+### Olá, eu sou o Deivison Santos 👋
 
 
 
@@ -25,7 +25,7 @@
   ##
   
   <div>
-    <a href="https://web.whatsapp.com/"><img src="https://img.shields.io/badge/WhatsApp-25D366?" target="_blank"></a>
+    <a href="https://web.whatsapp.com/" target="_black"><img src="https://img.shields.io/badge/WhatsApp-25D366?"></a>
     <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?" target="_blank"></a>
     <a href="https://www.facebook.com/deivison.santos.5473" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?"></a>
     <a href="https://www.linkedin.com/in/deivison-santos-143a60153/" targer="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?"></a>
