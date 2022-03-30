@@ -3,7 +3,7 @@
 
 
 - 🌱 Estou estudando e praticando ferramentas Front End e Back End, e versionamento de código,
-- como por exemplo, JAVASCCRIPT, PHP, HTML5, CSS3, NODE.JS, REACT.JS, JAVA e SQL SERVER, GIT/GITHUB...
+- JAVASCCRIPT, PHP, HTML5, CSS3, NODE.JS, REACT.JS, JAVA e SQL SERVER, GIT/GITHUB...
 
 <div align="center">
   <a href="https://github.com/Deivison1">
