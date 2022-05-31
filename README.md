@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estou estudando e praticando ferramentas Front End e Back End, e versionamento de código,
+- 🌱 Sou desenvolvedor Front End, principais ferramentas que conheço:
 - JAVASCCRIPT, PHP, HTML5, CSS3, NODE.JS, REACT.JS, JAVA e SQL SERVER, GIT/GITHUB...
 
 <div align="center">
