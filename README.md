@@ -1,4 +1,4 @@
-### Olá, eu sou o Deivison Santos 👋
+<h1> Olá, eu sou o Deivison Santos 👋</h1>
 
 Tenho 25 anos e estou em transição de carreira para área de ti (Desenvolvimento de software).
 
@@ -17,8 +17,10 @@ Já tive algumas experiências profissionais como: administrador e-commerce, ate
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivison1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<br>
-  <div align="center">
+<br> 
+  
+  <h2>Tecnologias</h2>
+  <div>
     <img align="center" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
     <img align="center" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -29,8 +31,8 @@ Já tive algumas experiências profissionais como: administrador e-commerce, ate
   </div>
 
   ##
-  
-  <div align="center">
+  <h2>Contato</h2>
+  <div>
     <a href="https://web.whatsapp.com/" target="_black"><img src="https://img.shields.io/badge/WhatsApp-25D366?"></a>
     <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?" target="_blank"></a>
     <a href="https://www.facebook.com/deivison.santos.5473" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?"></a>
