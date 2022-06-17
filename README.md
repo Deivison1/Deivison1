@@ -1,9 +1,20 @@
 <h1> Olá, eu sou o Deivison Santos 👋</h1>
 
-Tenho 25 anos e estou em transição de carreira para área de ti (Desenvolvimento de software).
+Tenho 25 anos e estou em transição de carreira para área de ti (Desenvolvimento de software). Estou no ultimo semestre de Análise e Desenvolvimento de Sistemas. Tenho fortes conhecimentos em desenvolvimento fronte end.
 
-Tenho fortes conhecimentos em desenvolvimento fronte end, principais tecnologias que conheço, html, CSS, Javascript Node.js e React.js. E no Back end, Java, Spring boot e SQL Server. 
-
+<h3>HARD SKILLS</h3>
+<h4>FRONT END</h4> 
+  :heavy_check_mark: HTML  
+  :heavy_check_mark: CSS  
+  :heavy_check_mark: JAVASCRIPT  
+  :heavy_check_mark: NODE.JS  
+  :heavy_check_mark: REACT.JS  
+  <h4>BACK AND:</h4>
+  :heavy_check_mark: JAVA  
+  :heavy_check_mark: SPRING BOOT  
+  :heavy_check_mark: SQL SERVER  
+<hr>
+<h2>Experiencia</h2>
 O que posso fazer com essas tecnologias: sites responsivos, sites estáticos, consumo de API's, criação e manipulação de banco de dados, configuração e manutenção de computadores e roteadores.
 
 Soft Skills: Trabalho em equipe, conversar de forma empática ao cliente.
@@ -11,6 +22,7 @@ Soft Skills: Trabalho em equipe, conversar de forma empática ao cliente.
 Já tive algumas experiências profissionais como: administrador e-commerce, atendente, manutenção e instalação.
 
 <hr>
+<h2>Dashboard</h2>
 <div align="center">
   <a href="https://github.com/Deivison1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deivison1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
