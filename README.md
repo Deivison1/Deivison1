@@ -2,8 +2,15 @@
 
 
 
-- 🌱 Sou desenvolvedor Front End, principais ferramentas que conheço:
-- JAVASCCRIPT, PHP, HTML5, CSS3, NODE.JS, REACT.JS, JAVA e SQL SERVER, GIT/GITHUB...
+Olá tenho 25 anos e estou em transição de carreira para área de ti (Desenvolvimento de software).
+
+Tenho fortes conhecimentos em desenvolvimento fronte end, principais tecnologias que conheço, html, CSS, Javascript Node.js e React.js. E no Back end, Java, Spring boot e SQL Server. 
+
+O que posso fazer com essas tecnologias: sites responsivos, sites estáticos, consumo de API's, criação e manipulação de banco de dados, configuração e manutenção de computadores e roteadores.
+
+Soft Skills: Trabalho em equipe, conversar de forma empática ao cliente.
+
+Já tive algumas experiências profissionais como: administrador e-commerce, atendente, manutenção e instalação.
 
 <div align="center">
   <a href="https://github.com/Deivison1">
