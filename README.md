@@ -1,6 +1,6 @@
 <h1> Olá, eu sou o Deivison Santos 👋</h1>
 
-Tenho 25 anos e estou em transição de carreira para área de ti (Desenvolvimento de software). Estou no ultimo semestre de Análise e Desenvolvimento de Sistemas. Tenho fortes conhecimentos em desenvolvimento fronte end.
+Tenho 26 anos e estou em transição de carreira para área de ti (Desenvolvimento de software). Sou formado em Análise e Desenvolvimento de Sistemas. Tenho fortes conhecimentos em desenvolvimento fronte end.
 
 <h3>HARD SKILLS</h3>
 <h4>FRONT END</h4> 
